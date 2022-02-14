@@ -1,0 +1,25 @@
+
+.filter{
+    width: 40%;
+    height: auto;
+    align-items: center;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-bottom: 5%;
+
+}
+table{
+    padding-left: 4% !important;
+    margin-left: 5%;
+    background-color:white;
+    
+}
+h2{
+    color: blue;
+    text-align: center;
+    margin-top: 3%;
+}
+body{
+    background-color: cadetblue;
+}
+
